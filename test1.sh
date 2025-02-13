@@ -1,3 +1,3 @@
 #!/bin/bash
 var=$(echo "basavaraj" | rev)
-echo $var
+echo "The value is $var "
